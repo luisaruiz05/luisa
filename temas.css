@@ -3,12 +3,13 @@
 
 width: 100%;
 height: 1400px;
-background-color: aqua;
+background-color: rgb(141, 226, 226);
 }
 .encabezado{
     width: 100%;
     height: 150px;
-    background-color: lightcoral;
+    background-color: rgb(233, 151, 151);
+    font-size: 30px;
 }
     
   .menu{
@@ -21,54 +22,54 @@ background-color: aqua;
       display: flex;
       width: 100%;
       height: 1200px;
-      background-color: mediumpurple;
+      background-color: rgb(162, 128, 229);
+      font-size: 30px;
   }
   .izquierda{
       width: 20%;
       height: 1200px;
-      background-color: violet;
+      background-color: rgb(163, 96, 163);
+      font-size: 30px;
   }
   .centro{
       width: 60%;
       height: 1200px;
-      background-color: purple;
+      background-color: rgb(212, 133, 212);
+     font-size: 25px;
   }
   .derecho{
       width: 20%;
       height: 1200px;
-      background-color: violet;
-  }
-.matematicas{
+      background-color: rgb(143, 77, 143);
+      }
+ .matematicas{
  width: 100px ;
  height: 78px;
- background-color: cadetblue;
-}
-
-
-
-.biologia{
+ background-color: rgb(99, 209, 212);
+    }
+ .biologia{
     width: 100px ;
     height: 78px;
-    background-color: cadetblue;
+    background-color: rgb(105, 199, 202);
    }
 
 
    .ingles{
     width: 100px ;
     height: 78px;
-    background-color: cadetblue;
+    background-color: rgb(109, 219, 223);
    }
 
 
    .tecnologia{
     width: 100px ;
     height: 78px;
-    background-color: cadetblue;
+    background-color: rgb(97, 176, 179);
    }
 
 
    .sociales{
     width: 100px ;
     height: 78px;
-    background-color: cadetblue;
+    background-color: rgb(112, 203, 206);
    }
