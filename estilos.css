@@ -12,7 +12,7 @@
     
     body{
     
-    background-image: url("fondo.jpg");
+    background-image: url("fondo.jpg\ \(2\).jpg");
     
     background-repeat: no-repeat;
     
@@ -24,11 +24,11 @@
     
     position: relative;
     
-     
+     top: 531px;
     
-    width: 190px;
+    width: 371px;
     
-    height: 190px;
+    height: 207px;
     
     border-radius: 10px;
     
@@ -38,7 +38,7 @@
     
     left: 180px;
     
-    background-image: url("medellin.jpg");
+    background-image: url("medellin.webp");
     
     }
     
@@ -63,3 +63,5 @@
      
     
     }
+    
+    
