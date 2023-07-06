@@ -1,0 +1,67 @@
+
+*{
+
+    padding: 0px;
+    
+    margin: 0px;
+    
+    }
+    
+    
+    
+    
+    body{
+    
+    background-image: url("fondo.jpg\ \(2\).jpg");
+    
+    background-repeat: no-repeat;
+    
+    }
+    
+    
+    
+    .img{
+    
+    position: relative;
+    
+     top: 531px;
+    
+    width: 371px;
+    
+    height: 207px;
+    
+    border-radius: 10px;
+    
+    background-repeat: no-repeat;
+    
+     
+    
+    left: 180px;
+    
+    background-image: url("medellin.webp");
+    
+    }
+    
+    .contenedor{
+    
+     
+    
+    height: 230px;
+    
+     
+    
+    }
+    
+    .texto{
+    
+    font-size: 40px;
+    
+    text-align: justify;
+    
+    color: brown;
+    
+     
+    
+    }
+    
+    
